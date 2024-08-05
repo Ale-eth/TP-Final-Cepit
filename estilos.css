@@ -1,0 +1,16 @@
+/* Lista del Nav */
+.lista{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.listaitems{
+    margin-right: 10px;
+}
+
+/* Pagina de formulario */
+.contenedor-formulario{
+    display: flex;
+    flex-direction: column;
+
+}
